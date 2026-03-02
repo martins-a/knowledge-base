@@ -1,25 +1,25 @@
 # REACT - CORE FUNDAMENTALS
 
-> What React is and how it works
+### What React is and how it works
 
-> JSX
+### JSX
 
-> Functional Components
+### Functional Components
 
-> Props
+### Props
 
-> Component composition
+### Component composition
 
-> Rendering lists
+### Rendering lists
 
-> Keys
+### Keys
 
-> Conditional rendering
+### Conditional rendering
 
-> Events
+### Events
 
-> Basic form handling
+### Basic form handling
 
-> useState
+### useState
 
-> useEffect
+### useEffect
