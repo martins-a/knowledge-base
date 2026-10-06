@@ -26,5 +26,5 @@ The model learns by interacting with an environment and receiving feedback (rewa
 - Zero Shot: sem exemplos
 - One Shot: 1 exemplo'
 - Two Shot: mais de um exemplo
-- CoT : chain of thoughts -> "passo a passo"
+- CoT : chain of thoughts -> "passo a passo"N
 
